@@ -21,7 +21,10 @@ In this article we will explore how you can generate and set up your own well-de
 ![alt text](/Images/popup.png)
     at this step if you tick the checkbox you can generate both WDA and WDI at the same time.
 
-![video](./docs/videos/vid.mp4)
+
+
+
+https://user-images.githubusercontent.com/114900201/231157317-6d2b9ab1-1e15-42fc-9b72-5946c4af68d8.mp4
 
 
 
