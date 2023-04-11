@@ -1,40 +1,44 @@
-site_name: CoMakeIT@TIC
+site_name: TIC@CoMakeIT
 theme:
   name: material
 
   features:
-    - navigation.tabs
-    - navigation.sections
-    # - toc.integrate
     - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-    - announce.dismiss
-    # - content.action.edit
-    # - content.action.view
-    - content.code.annotate
-    - content.code.copy
-    # - content.tabs.link
+  
     - content.tooltips
-    - header.autohide
-    - navigation.expand
-    # - navigation.footer
+   
+    - navigation.footer
     - navigation.indexes
     - navigation.instant
     - navigation.prune
-    - navigation.sections
+   
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
+   
     - navigation.tracking
-    - search.highlight
-    - search.share
-    - search.suggest
-    - toc.follow
-#   language: en
+     # - navigation.tabs
+    # - navigation.sections
+    # - toc.integrate
+     # - header.autohide
+    # - navigation.expand
+     # - navigation.sections
+     # - navigation.tabs.sticky
+    # - navigation.top
+    #   - search.suggest
+  #   - search.highlight
+  #   - content.tabs.link
+  #   - content.code.annotation
+  #   - content.code.copy
+  #   - announce.dismiss
+  #   # - content.action.edit
+  #   # - content.action.view
+  #   - content.code.annotate
+  #   - content.code.copy
+  #   # - content.tabs.link
+  #   - search.highlight
+  #   - search.share
+  #   - search.suggest
+    # - toc.follow
+  language: en
 
 
   palette:
@@ -52,6 +56,9 @@ theme:
       accent: lime
 repo_name: coMakeIT-Git/tech-lab
 repo_url: https://github.com/coMakeIT-Git/tech-lab
+
+plugins:
+    - mkdocs-video
 
 
 
@@ -74,5 +81,5 @@ repo_url: https://github.com/coMakeIT-Git/tech-lab
 #       emoji_index: !!python/name:materialx.emoji.twemoji
 #       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-copyright: |
-  &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">CoMakeIT@TIC</a>
+# copyright: |
+#   &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">CoMakeIT@TIC</a>

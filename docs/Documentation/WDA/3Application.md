@@ -1,7 +1,20 @@
 # Application
 
-To define your application in our system, we require specific information about your application's characteristics. Please provide us with the following details:
+To define your application in our system, we require specific information about your application's characteristics. 
+#### Available application configuration options
 
+|Option name | Default value | Possible values | Comment |
+| --- | --- | --- | --- |
+| applicationType | monolith | monolith, microservice, gateway |  |
+| authenticationType | jwt | jwt, session, oauth2 | jwt |
+| clientFramework | angularX | angularX, angular, react, vue, svelte, no |  |
+| databaseType | sql | sql, mongodb, cassandra, couchbase, no |  |
+| packageName | com.mycompany.myapp |  | Sets the packageFolder option |
+| prodDatabaseType | mysql | mysql, mariadb, mssql, postgresql, oracle, no |  |
+| serverPort | 8080, 8081 or 9999 |  | Depends on the app type |
+| serviceDiscoveryType | no | eureka, consul, no |  |
+
+Please provide us with the following details:
 #### Application Type
 Please specify the type of application you are building. For instance, if your application requires integration with other applications or systems, you may select "Gateway." If you are building a other application, you may select "Microservices" or "Monolithic."
 
@@ -27,15 +40,4 @@ Please specify the port that your application will use for its services.
 
 By providing us with these details, we can create a comprehensive profile for your application, which will help us ensure that your application is properly configured and optimized for success.
 
-#### Available application configuration options
 
-| JDL option name | Default value | Possible values | Comment |
-| --- | --- | --- | --- |
-| applicationType | monolith | monolith, microservice, gateway |  |
-| authenticationType | jwt | jwt, session, oauth2 | jwt |
-| clientFramework | angularX | angularX, angular, react, vue, svelte, no |  |
-| databaseType | sql | sql, mongodb, cassandra, couchbase, no |  |
-| packageName | com.mycompany.myapp |  | Sets the packageFolder option |
-| prodDatabaseType | mysql | mysql, mariadb, mssql, postgresql, oracle, no |  |
-| serverPort | 8080, 8081 or 9999 |  | Depends on the app type |
-| serviceDiscoveryType | no | eureka, consul, no |  |
