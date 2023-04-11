@@ -2,17 +2,11 @@
 
 To define an entity in our system, you need to provide details about its attributes. The two main attributes that you need to specify are "Data Type" and "Required".
 
-Example :"Long" refers to the data type of the attribute, and can be one of several possible values, including integer, float, double, and long.
-
-"Required" indicates whether the attribute is mandatory or optional for the entity. If an attribute is marked as required, it must have a value in order for the entity to be valid.
-
-You can define multiple attributes for each entity by entering their details in the form provided. Please note that each entity must have at least one attribute defined.
-
-#### Field types and validations 
+#### Field types and validations
 
 Each field type has its own validation list.
 
-| JDL type | Validations |
+| Data type | Validations |
 | --- | --- |
 | String | required, minlength, maxlength, pattern, unique |
 | Integer | required, min, max, unique |
@@ -31,3 +25,13 @@ Each field type has its own validation list.
 | AnyBlob | required, minbytes, maxbytes, unique |
 | ImageBlob | required, minbytes, maxbytes, unique |
 | TextBlob | required, unique |
+
+Example :"Long" refers to the data type of the attribute, and can be one of several possible values, including integer, float, double, and long.
+
+"Required" indicates whether the attribute is mandatory or optional for the entity. If an attribute is marked as required, it must have a value in order for the entity to be valid.
+
+You can define multiple attributes for each entity by entering their details in the form provided. Please note that each entity must have at least one attribute defined.
+
+ 
+
+

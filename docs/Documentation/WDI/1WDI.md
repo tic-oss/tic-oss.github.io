@@ -1,4 +1,4 @@
-# Getting Started with Well-Defined Infrastructure
+# Description
 
 To define the infrastructure for your project, we require some details that will help us create a Well Defined Infrastructure (WDI). The information needed includes the project name, your domain name, your preferred cloud provider, your preferred orchestration provider, cluster name, Kubernetes namespace, and the ingress type.
 
