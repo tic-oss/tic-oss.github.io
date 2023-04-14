@@ -39,7 +39,7 @@ theme:
   #   - search.suggest
     # - toc.follow
   language: en
-
+  
 
   palette:
     - scheme: default
@@ -57,29 +57,37 @@ theme:
 repo_name: coMakeIT-Git/tech-lab
 repo_url: https://github.com/coMakeIT-Git/tech-lab
 
-plugins:
-    - mkdocs-video
+
+
+
 
 
 
     
 
-# markdown_extensions:
-#   - pymdownx.highlight:
-#       anchor_linenums: true
-#   - pymdownx.inlinehilite
-#   - pymdownx.snippets
-#   - admonition
-#   - pymdownx.arithmatex:
-#       generic: true
-#   - footnotes
-#   - pymdownx.details
-#   - pymdownx.superfences
-#   - pymdownx.mark
-#   - attr_list
-#   - pymdownx.emoji:
-#       emoji_index: !!python/name:materialx.emoji.twemoji
-#       emoji_generator: !!python/name:materialx.emoji.to_svg
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+plugins:
+    - mkdocs-video:
+        is_video: True
+        video_muted: True
+        video_controls: True
+        css_style:
+          width: "800%"
+# pymdownx.emoji:
+#   emoji_index: !!python/name:materialx.emoji.twemoji
+# emoji_generator: !!python/name:materialx.emoji.to_svg
 
 # copyright: |
 #   &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">CoMakeIT@TIC</a>

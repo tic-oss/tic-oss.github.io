@@ -14,19 +14,6 @@ In this article we will explore how you can generate and set up your own well-de
 
 #### Steps for Generating WDA
 
-1. Visit our [website](http://localhost:3000/) and click on products tab, here you can select WDA or WDI based on your choice.
-![alt text](/Images/pro.png)
+Visit our [website](http://localhost:3000/) to get started with generation of your own WDA.
 
-2. After Selecting WDA, you will be shown a pop-up, where you have to give username and project name.
-![alt text](/Images/popup.png)
-    at this step if you tick the checkbox you can generate both WDA and WDI at the same time.
-
-
-
-
-https://user-images.githubusercontent.com/114900201/231157317-6d2b9ab1-1e15-42fc-9b72-5946c4af68d8.mp4
-
-
-
-
-
+![type:video](./vid.mp4)
