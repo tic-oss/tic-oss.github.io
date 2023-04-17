@@ -8,8 +8,6 @@ A well-defined architecture is a clear and documented framework that outlines th
 
 [Click here to Try Now!](http://localhost:3000/wda)
 
-<!--  -->
-
 #### Well-Defined Infrastructure
 A well-defined infrastructure is a clear and documented set of hardware, software, and network components necessary to support a system or application. It should be scalable, available, secure, performant, manageable, resilient, and well-documented to ensure reliable, secure, and efficient operations while minimizing downtime and reducing costs.
 

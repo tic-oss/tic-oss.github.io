@@ -39,7 +39,6 @@ theme:
   #   - search.suggest
     # - toc.follow
   language: en
-  
 
   palette:
     - scheme: default
@@ -57,13 +56,8 @@ theme:
 repo_name: coMakeIT-Git/tech-lab
 repo_url: https://github.com/coMakeIT-Git/tech-lab
 
-
-
-
-
-
-
-    
+plugins:
+    - mkdocs-video
 
 markdown_extensions:
   - pymdownx.highlight:
