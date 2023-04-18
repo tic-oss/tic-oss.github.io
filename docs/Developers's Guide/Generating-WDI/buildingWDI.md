@@ -14,6 +14,6 @@ In this article we will explore how you can generate and set up your own well-de
 
 #### Steps for Generating WDA
 
-Visit our [website](http://localhost:3000/) to get started with generation of your own WDA.
+Visit our [website](http://localhost:3000/wdi) to get started with generation of your own WDA.
 
 ![type:video](./vid.mp4)

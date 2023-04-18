@@ -5,14 +5,14 @@ To define your application in our system, we require specific information about 
 
 |Option name | Default value | Possible values | Comment |
 | --- | --- | --- | --- |
-| applicationType | monolith | monolith, microservice, gateway |  |
-| authenticationType | jwt | jwt, session, oauth2 | jwt |
-| clientFramework | angularX | angularX, angular, react, vue, svelte, no |  |
+| applicationType | Gateway | monolith, microservice, gateway |  |
+| authenticationType | oauth2 | jwt, session, oauth2 | jwt |
+| clientFramework | react | angularX, angular, react, vue, svelte, no |  |
 | databaseType | sql | sql, mongodb, cassandra, couchbase, no |  |
 | packageName | com.mycompany.myapp |  | Sets the packageFolder option |
-| prodDatabaseType | mysql | mysql, mariadb, mssql, postgresql, oracle, no |  |
-| serverPort | 8080, 8081 or 9999 |  | Depends on the app type |
-| serviceDiscoveryType | no | eureka, consul, no |  |
+| prodDatabaseType | postgresql | mysql, mariadb, mssql, postgresql, oracle, no |  |
+| serverPort | 9000 |  | 8080, 8081 or 9999 Depends on the app type |
+| serviceDiscoveryType | eureka | eureka, consul, no |  |
 
 Please provide us with the following details:
 #### Application Type
