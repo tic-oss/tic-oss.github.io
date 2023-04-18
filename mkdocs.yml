@@ -1,87 +1,73 @@
-site_name: TIC@CoMakeIT
+site_name: CoMakeIT@TIC
 theme:
   name: material
 
   features:
+    - navigation.tabs
+    # - navigation.sections
+    # - toc.integrate
     - navigation.top
-  
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - announce.dismiss
+    # - content.action.edit
+    # - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.tabs.link
     - content.tooltips
-   
+    - header.autohide
+    # - navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
     - navigation.prune
-   
-    - navigation.tabs
-   
-    - navigation.tracking
-     # - navigation.tabs
     # - navigation.sections
-    # - toc.integrate
-     # - header.autohide
-    # - navigation.expand
-     # - navigation.sections
-     # - navigation.tabs.sticky
-    # - navigation.top
-    #   - search.suggest
-  #   - search.highlight
-  #   - content.tabs.link
-  #   - content.code.annotation
-  #   - content.code.copy
-  #   - announce.dismiss
-  #   # - content.action.edit
-  #   # - content.action.view
-  #   - content.code.annotate
-  #   - content.code.copy
-  #   # - content.tabs.link
-  #   - search.highlight
-  #   - search.share
-  #   - search.suggest
-    # - toc.follow
-  language: en
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+#   language: en
+
 
   palette:
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: blue
+        name: Switch to light mode
+      primary: indigo
       accent: purple 
-    - scheme: slate 
+    - scheme: default 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: indigo
-      accent: lime
-repo_name: coMakeIT-Git/tech-lab
-repo_url: https://github.com/coMakeIT-Git/tech-lab
-
+        name: Switch to dark mode    
+      primary: blue
+      accent: pink
+repo_name: coMakeIT-TIC.github.io
+repo_url: https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io
 plugins:
-    - mkdocs-video
+  - search
+  - mkdocs-video:
+      is_video: True
+      video_muted: True
+      video_controls: True
+      css_style:
+        width: "800%"
+
+
+
+
+    
 
 markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
   - attr_list
-plugins:
-    - mkdocs-video:
-        is_video: True
-        video_muted: True
-        video_controls: True
-        css_style:
-          width: "800%"
-# pymdownx.emoji:
-#   emoji_index: !!python/name:materialx.emoji.twemoji
-# emoji_generator: !!python/name:materialx.emoji.to_svg
 
-# copyright: |
-#   &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">CoMakeIT@TIC</a>
+copyright: |
+  &copy; 2023 <a href="https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io"  target="_blank" rel="noopener">TIC@CoMakeIT</a>

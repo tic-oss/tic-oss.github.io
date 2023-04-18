@@ -1,4 +1,4 @@
-# Entities
+<!-- # Entities
 
 To define an entity in our system, you need to provide details about its attributes. The two main attributes that you need to specify are "Data Type" and "Required".
 
@@ -34,4 +34,4 @@ You can define multiple attributes for each entity by entering their details in 
 
  
 
-
+ -->
