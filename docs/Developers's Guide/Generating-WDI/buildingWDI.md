@@ -9,7 +9,9 @@ In this article we will explore how you can generate and set up your own well-de
     2.Kubectl(Kubernetes command-line tool) 
     3.Cloud Provider
     
+
 [Installation Guide for Prerequisites](https://comakeit-tic.github.io/Documentation/WDI/2Prerequisites/)
+
 
 
 #### Steps for Generating WDA
@@ -31,4 +33,5 @@ You can get started with WDI with these simple steps:
 For Detailed information on possible values to be filled please reffer [WDI Guide.](https://comakeit-tic.github.io/Documentation/WDI/1WDI/){ .md-button }
 
 ### Complete video guide
+
 ![type:video](./vid.mp4)

@@ -52,6 +52,8 @@ theme:
         name: Switch to dark mode    
       primary: blue
       accent: blue
+      
+
 repo_name: coMakeIT-TIC.github.io
 repo_url: https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io
 plugins:
@@ -62,13 +64,8 @@ plugins:
       video_controls: True
       css_style:
         width: "800%"
-
-
-
-
-    
-
-markdown_extensions:
+ 
+ markdown_extensions:
   - attr_list
 
 copyright: |

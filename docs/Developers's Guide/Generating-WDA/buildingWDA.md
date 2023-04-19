@@ -9,10 +9,13 @@ In this article we will explore how you can generate and set up your own well-de
     2.Integrated development environment (IDE) 
     3.Docker
     4.ECR Repository
+
 [Installation Guide for Prerequisites](https://comakeit-tic.github.io/Documentation/WDA/1Preq/)
 
 
+
 #### Steps for Generating WDA
+
 
 Visit our [website](http://wda-ui.s3-website.ap-south-1.amazonaws.com/wda) to get started with generation of your own WDA.
 
