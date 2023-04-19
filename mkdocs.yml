@@ -1,7 +1,9 @@
 site_name: CoMakeIT@TIC
 theme:
   name: material
-
+  font:
+    # text: Roboto Mono
+    text: Roboto
   features:
     - navigation.tabs
     # - navigation.sections
@@ -43,13 +45,13 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to light mode
       primary: indigo
-      accent: purple 
+      accent: green 
     - scheme: default 
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode    
       primary: blue
-      accent: pink
+      accent: blue
 repo_name: coMakeIT-TIC.github.io
 repo_url: https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io
 plugins:
