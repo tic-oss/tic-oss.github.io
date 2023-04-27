@@ -1,6 +1,7 @@
-site_name: CoMakeIT@TIC
+site_name: TIC@CoMakeIT
 theme:
   name: material
+  
   font:
     # text: Roboto Mono
     text: Roboto
@@ -37,20 +38,24 @@ theme:
     - search.suggest
     - toc.follow
 #   language: en
+  
+  
+    
+
 
 
   palette:
-    - scheme: slate
+    - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
-        name: Switch to light mode
-      primary: indigo
+        name: Switch to dark mode
+      primary: blue
       accent: green 
-    - scheme: default 
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to dark mode    
-      primary: blue
+        name:  Switch to light mode    
+      primary: indigo
       accent: blue
 repo_name: coMakeIT-TIC.github.io
 repo_url: https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io
@@ -62,11 +67,7 @@ plugins:
       video_controls: True
       css_style:
         width: "800%"
-
-
-
-
-    
+  
 
 markdown_extensions:
   - attr_list
