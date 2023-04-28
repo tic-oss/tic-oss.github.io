@@ -1,17 +1,8 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 3216e2ba5729a6379c419587e372836d36f4e675
 site_name: Technology Innovation Center - CoMakeIT
 theme:
   name: material
   custom_dir: theme
 
-<<<<<<< HEAD
-  
-
-=======
->>>>>>> 3216e2ba5729a6379c419587e372836d36f4e675
   font:
     # text: Roboto Mono
     text: Roboto
@@ -47,14 +38,11 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-<<<<<<< HEAD
+
 
     - header.autohide
 
-=======
-    - header.autohide
-#   language: en
->>>>>>> 3216e2ba5729a6379c419587e372836d36f4e675
+
   palette:
     - scheme: default
       toggle:
@@ -90,12 +78,7 @@ nav:
     - WDI:
       - WDI: Documentation/WDI/1WDI.md
       - Prerequisites: Documentation/WDI/2Prerequisites.md
-<<<<<<< HEAD
-=======
-# extra:
-#   announcement: |
-#     {% include "announcement.html" %}
->>>>>>> 3216e2ba5729a6379c419587e372836d36f4e675
+
 
 repo_name: coMakeIT-TIC.github.io
 repo_url: https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io
@@ -110,9 +93,6 @@ plugins:
 
 markdown_extensions:
   - attr_list
-<<<<<<< HEAD
-=======
 
->>>>>>> 3216e2ba5729a6379c419587e372836d36f4e675
 copyright: |
   &copy; 2023 <a href="https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io"  target="_blank" rel="noopener">TIC@CoMakeIT</a>
