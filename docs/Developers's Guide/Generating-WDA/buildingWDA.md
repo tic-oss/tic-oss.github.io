@@ -7,6 +7,7 @@ In this article we will explore how you can generate and set up your own Well-De
     2.Integrated development environment (IDE) 
     3.Docker
     4.ECR Repository
+
 [Installation Guide for Prerequisites](https://comakeit-tic.github.io/Documentation/WDA/1Preq/)
 
 
@@ -37,4 +38,5 @@ To know more about poosible values to be filled please reffer [WDA Guide.](https
 <!-- ### Complete Video Guide
 
 ![type:video](./vid.mp4) -->
+
 
