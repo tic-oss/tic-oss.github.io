@@ -28,4 +28,3 @@ You can get started with WDI with these simple steps:
 <a href="/Images/wdi2.png" target="_blank"><img src="/Images/wdi2.png" alt="Image"></a>
 
 For Detailed information on possible values to be filled please reffer [WDI Guide.](https://comakeit-tic.github.io/Documentation/WDI/1WDI/)
-

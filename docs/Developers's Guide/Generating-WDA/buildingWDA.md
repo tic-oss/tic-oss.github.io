@@ -9,6 +9,7 @@ In this article we will explore how you can generate and set up your own Well-De
     2.Integrated development environment (IDE) 
     3.Docker
     4.ECR Repository
+
 [Installation Guide for Prerequisites](https://comakeit-tic.github.io/Documentation/WDA/1Preq/)
 
 
@@ -33,11 +34,11 @@ You can generate WDA in these simple steps:
 <a href="/Images/wda4.png" target="_blank"><img src="/Images/wda4.png" alt="Image"></a>
 
 5 . If you have opted for "Generate Infrastructure" at "Step 3" then you would see additional tab "Infrastructure", please fill all the mandatory fields in all the tabs and click on submit.
+=======
+
+[Installation Guide for Prerequisites](https://comakeit-tic.github.io/Documentation/WDA/1Preq/)
+
 <a href="/Images/ai.png" target="_blank"><img width="800" src="/Images/ai.png" alt="Image"></a>
 
 To know more about poosible values to be filled please reffer [WDA Guide.](https://comakeit-tic.github.io/Documentation/WDA/1.1wda/)
-
-
-
-
 

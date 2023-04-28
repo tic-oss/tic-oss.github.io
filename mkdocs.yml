@@ -3,7 +3,6 @@ theme:
   name: material
   custom_dir: theme
 
-  
   font:
     # text: Roboto Mono
     text: Roboto
@@ -42,7 +41,7 @@ theme:
     - header.autohide
 #   language: en
   palette:
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
@@ -90,13 +89,9 @@ plugins:
       video_controls: True
       css_style:
         width: "800%"
-  
-  
 
 markdown_extensions:
   - attr_list
-
-
 
 copyright: |
   &copy; 2023 <a href="https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io"  target="_blank" rel="noopener">TIC@CoMakeIT</a>
