@@ -12,7 +12,7 @@ In this article we will explore how you can generate and set up your own Well-De
 
 #### Steps for Generating WDA
 
-Visit our [website](http://wda-ui.s3-website.ap-south-1.amazonaws.com/wda){target="_blank"}
+Visit our [website](http://wda-ui.s3-website.ap-south-1.amazonaws.com){target="_blank"}
 to get started with generation of your own WDA or [ClickHere](http://wda-ui.s3-website.ap-south-1.amazonaws.com/wda){target="_blank"} to get re-directed directly to WDA and start from "Step 3".
 
 

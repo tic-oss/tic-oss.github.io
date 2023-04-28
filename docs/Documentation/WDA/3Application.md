@@ -5,7 +5,6 @@ To define your application in our system, we require specific information about 
 
 |Option name | Default value | Possible values | Comment |
 | --- | --- | --- | --- |
-<<<<<<< HEAD
 | ApplicationType | Gateway | monolith, microservice, gateway |  |
 | AuthenticationType | oauth2 | jwt, session, oauth2 | jwt |
 | ClientFramework | react | angularX, angular, react, vue, svelte, no |  |
@@ -14,16 +13,6 @@ To define your application in our system, we require specific information about 
 | ProdDatabaseType | postgresql | mysql, mariadb, mssql, postgresql, oracle, no |  |
 | ServerPort | 9000 |  | 8080, 8081 or 9999 Depends on the app type |
 | ServiceDiscoveryType | eureka | eureka, consul, no |  |
-=======
-| applicationType | Gateway | monolith, microservice, gateway |  |
-| authenticationType | oauth2 | jwt, session, oauth2 | jwt |
-| clientFramework | react | angularX, angular, react, vue, svelte, no |  |
-| databaseType | sql | sql, mongodb, cassandra, couchbase, no |  |
-| packageName | com.mycompany.myapp |  | Sets the packageFolder option |
-| prodDatabaseType | postgresql | mysql, mariadb, mssql, postgresql, oracle, no |  |
-| serverPort | 9000 |  | 8080, 8081 or 9999 Depends on the app type |
-| serviceDiscoveryType | eureka | eureka, consul, no |  |
->>>>>>> 8239c48ec486b9d5b2f613cf71dd45d46087b9f7
 
 Please provide us with the following details:
 #### Application Type

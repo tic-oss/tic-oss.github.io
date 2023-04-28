@@ -45,7 +45,7 @@ theme:
     - header.autohide
 
   palette:
-    - scheme: slate
+    - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
