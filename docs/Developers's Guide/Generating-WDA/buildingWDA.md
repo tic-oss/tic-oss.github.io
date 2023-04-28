@@ -1,9 +1,7 @@
 # Building WDA
 
 ### Build and Run
-
 In this article we will explore how you can generate and set up your own Well-Defined Architecture on your local machine.
-
 #### Prerequisites
     1.Framework of your choice(JAVA/GO)
     2.Integrated development environment (IDE) 
@@ -36,8 +34,7 @@ You can generate WDA in these simple steps:
 <a href="/Images/ai.png" target="_blank"><img width="800" src="/Images/ai.png" alt="Image"></a>
 
 To know more about poosible values to be filled please reffer [WDA Guide.](https://comakeit-tic.github.io/Documentation/WDA/1.1wda/)
+<!-- ### Complete Video Guide
 
-
-
-
+![type:video](./vid.mp4) -->
 
