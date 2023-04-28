@@ -1,6 +1,8 @@
-site_name: CoMakeIT@TIC
+site_name: Technology Innovation Center - CoMakeIT
 theme:
   name: material
+  custom_dir: theme
+
   font:
     # text: Roboto Mono
     text: Roboto
@@ -36,33 +38,57 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-#   language: en
+
+
+    - header.autohide
 
 
   palette:
-    - scheme: slate
+    - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
-        name: Switch to light mode
-      primary: indigo
-      accent: green 
-    - scheme: default 
+        name: Switch to dark mode
+      primary: blue
+      accent: blue 
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to dark mode    
-      primary: blue
-      accent: blue
-      
+        name:  Switch to light mode    
+      primary: dark blue
+      accent: dark blue
+nav:
+  # - Home: index.md
+  
+  - Introduction:
+    - Our Products: index.md
+  - Developer's Guide:
+    - Developers's Guide/Concept.md
+    - Generating-WDA:
+      - Building WDA: Developers's Guide/Generating-WDA/buildingWDA.md
+    - Generating-WDI:
+      - Building WDI: Developers's Guide/Generating-WDI/buildingWDI.md
+  - Documentation:
+    - Basic Concept: Documentation/concept.md
+    - WDA:
+      - WDA: Documentation/WDA/1.1wda.md
+      - Prerequisites: Documentation/WDA/1Preq.md
+      - Application: Documentation/WDA/3Application.md
+      - Deployment : Documentation/WDA/4Deployment.md
+      - Communication : Documentation/WDA/5communication.md
+    - WDI:
+      - WDI: Documentation/WDI/1WDI.md
+      - Prerequisites: Documentation/WDI/2Prerequisites.md
+
 
 repo_name: coMakeIT-TIC.github.io
 repo_url: https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io
 plugins:
   - search
   - mkdocs-video:
-      is_video: True
-      video_muted: True
-      video_controls: True
-      css_style:
+        is_video: True
+        video_muted: True
+        video_controls: True
+        css_style:
         width: "800%"
 
 markdown_extensions:

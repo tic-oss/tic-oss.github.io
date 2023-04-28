@@ -1,6 +1,6 @@
 # Description
 
-To define the infrastructure for your project, we require some details that will help us create a Well Defined Infrastructure (WDI). The information needed includes the project name, your domain name, your preferred cloud provider, your preferred orchestration provider, cluster name, Kubernetes namespace, and the ingress type.
+To define the Infrastructure for your project, we require some details that will help us create a Well Defined Infrastructure (WDI). The information needed includes the project name, your domain name, your preferred cloud provider, your preferred orchestration provider, cluster name, Kubernetes namespace, monitoring and the ingress type.
 
 The project name will be the name of your project, and the domain name will be the domain name for your application. You will also need to select your preferred cloud provider, which is where your application will be hosted. We currently support AWS Cloud, Azure Cloud and Google cloud platform.
 

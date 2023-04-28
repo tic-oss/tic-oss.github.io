@@ -32,6 +32,9 @@ Example :"Long" refers to the data type of the attribute, and can be one of seve
 
 You can define multiple attributes for each entity by entering their details in the form provided. Please note that each entity must have at least one attribute defined.
 
+<!-- ### Complete Video Guide
+
+![type:video](./vid.mp4) -->
  
 
  -->
