@@ -9,7 +9,7 @@ WDA generates well-architected Microservice Applications which are secure, relia
 These applications form the building blocks of your Microservice Architecture.
 #### Infrastructure
 Having well-defined microservices alone isn't enough for the best performance, product experience and maintenance.
-## WDI
+### WDI
 
 To solve this problem, WDA also generates Infrastructure Automation (WDI). It provides a scalable and cost-effective platform for hosting the services.
 
