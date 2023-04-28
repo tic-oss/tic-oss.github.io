@@ -1,18 +1,21 @@
-# Our Products
+# Introduction
 
-## What are Our Products ?
+Technology Innovation Center (TIC) at coMakeIT is a facility that enables exploration of new ideas, build technologies and solutions for its products and services. It helps the company to accelerate product development by laying down strong foundations through innovation. TIC primarily focuses on technology for the future, being ready to adapt to latest advancements in the software industry.
+## Incubations
+### Well-Defined Architecture (WDA)
 
-## WDA
-#### Well-Defined Architecture
+Well-defined Architecture is a SaaS offering to generate boilerplate code of microservices, adhering to Well-defined design patterns. It also generates infrastructure automation scripts for provisioning and management of resources on cloud.
+#### Applications
+WDA generates well-architected Microservice Applications which are secure, reliable and flexible.
 
-A well-defined architecture is a clear and documented framework that outlines the components and their interactions in a system. It should be easy to understand, flexible, scalable, maintainable, secure, optimized for performance, and well-documented. It's critical for the success of any software project.
+These applications form the building blocks of your Microservice Architecture.
+#### Infrastructure
 
-## WDI
+Having well-defined microservices alone isn't enough for the best performance, product experience and maintenance.
 
-#### Well-Defined Infrastructure
-A well-defined infrastructure is a clear and documented set of hardware, software, and network components necessary to support a system or application. It should be scalable, available, secure, performant, manageable, resilient, and well-documented to ensure reliable, secure, and efficient operations while minimizing downtime and reducing costs.
-
+To solve this problem, WDA also generates Infrastructure Automation (WDI). It provides a scalable and cost-effective platform for hosting the services.
 
 
-[Click here to Explore our products!](http://wda-ui.s3-website.ap-south-1.amazonaws.com/){ .md-button }
+
+[Click here to Explore our products!](http://wda-ui.s3-website.ap-south-1.amazonaws.com/){target="_blank"}
 <!-- [Click here to Explore our products!](http://localhost:3000/) -->
