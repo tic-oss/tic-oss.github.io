@@ -14,8 +14,8 @@ Both components are developed using yeoman, a scaffolding framework. All the boi
 
 References:
 
-- [JHipster](https://www.jhipster.tech/){target="_blanl"}
-- [Yeoman](https://yeoman.io/){target="_blanl"}
+- [JHipster](https://www.jhipster.tech/){target="_blank"}
+- [Yeoman](https://yeoman.io/){target="_blank"}
 
 
 
