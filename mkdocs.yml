@@ -62,13 +62,13 @@ nav:
   - Introduction:
     - Our Products: index.md
   - Developer's Guide:
-    - Developers's Guide/Concept.md
+    - Developers's Guide/concept.md
     - Generating-WDA:
       - Building WDA: Developers's Guide/Generating-WDA/buildingWDA.md
     - Generating-WDI:
       - Building WDI: Developers's Guide/Generating-WDI/buildingWDI.md
   - Documentation:
-    - Architecture: Documentation/concept.md
+    - Architecture: Documentation/Architecture.md
     - WDA:
       - WDA: Documentation/WDA/1.1wda.md
       - Prerequisites: Documentation/WDA/1Preq.md
