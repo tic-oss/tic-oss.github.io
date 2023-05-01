@@ -62,7 +62,7 @@ nav:
   - Introduction:
     - Our Products: index.md
   - Developer's Guide:
-    - Developers's Guide/concept.md
+    - Developers's Guide/Concept.md
     - Generating-WDA:
       - Building WDA: Developers's Guide/Generating-WDA/buildingWDA.md
     - Generating-WDI:
