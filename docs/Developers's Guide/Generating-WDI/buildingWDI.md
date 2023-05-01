@@ -24,3 +24,6 @@ You can get started with WDI with these simple steps:
 
 For Detailed information on possible values to be filled please reffer [WDI Guide.](https://comakeit-tic.github.io/Documentation/WDI/1WDI/)
 
+### Complete Video Guide
+
+![type:video](./wdi.mp4)
