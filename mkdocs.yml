@@ -68,7 +68,7 @@ nav:
     - Generating-WDI:
       - Building WDI: Developers's Guide/Generating-WDI/buildingWDI.md
   - Documentation:
-    - Architecture: Documentation/Architecture.md
+    - Architecture: Documentation/concept.md
     - WDA:
       - WDA: Documentation/WDA/1.1wda.md
       - Prerequisites: Documentation/WDA/1Preq.md
