@@ -35,8 +35,8 @@ You can generate WDA in these simple steps:
 <a href="/Images/ai.png" target="_blank"><img width="800" src="/Images/ai.png" alt="Image"></a>
 
 To know more about poosible values to be filled please reffer [WDA Guide.](https://comakeit-tic.github.io/Documentation/WDA/1.1wda/)
-<!-- ### Complete Video Guide
+### Complete Video Guide
 
-![type:video](./vid.mp4) -->
+![type:video](./video.mp4)
 
 
