@@ -78,6 +78,7 @@ nav:
     - WDI:
       - WDI: Documentation/WDI/1WDI.md
       - Prerequisites: Documentation/WDI/2Prerequisites.md
+    - Local Setup: Documentation/Local.md
 
 
 repo_name: coMakeIT-TIC.github.io
