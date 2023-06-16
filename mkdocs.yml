@@ -67,6 +67,8 @@ nav:
       - Building WDA: Developers's Guide/Generating-WDA/buildingWDA.md
     - Generating-WDI:
       - Building WDI: Developers's Guide/Generating-WDI/buildingWDI.md
+    - Mind Map:
+      - Get Started : Developers's Guide/Mind Map/GetStarted.md
   - Documentation:
     - Architecture: Documentation/concept.md
     - WDA:
@@ -79,6 +81,12 @@ nav:
       - WDI: Documentation/WDI/1WDI.md
       - Prerequisites: Documentation/WDI/2Prerequisites.md
     - Local Setup: Documentation/localsetup.md
+    - Mind Map:
+      - Mind Map: Documentation/MindMap/mindMap.md
+      - Prerequisites: Documentation/MindMap/Prerequisites.md
+      - UI+Gateway Node: Documentation/MindMap/UI+Gateway.md
+      - Service Node: Documentation/MindMap/ServiceNode.md
+      - Global Configurations: Documentation/MindMap/GlobalConfigurations.md
 
 
 repo_name: coMakeIT-TIC.github.io
