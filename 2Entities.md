@@ -35,6 +35,3 @@ You can define multiple attributes for each entity by entering their details in 
 <!-- ### Complete Video Guide
 
 ![type:video](./vid.mp4) -->
- 
-
- -->

@@ -1,4 +1,4 @@
-The UI+Gateway node in the Mindmap Designer represents the frontend and gateway of your project. It serves as the entry point for user interaction and handles the communication between the user interface and the backend services. By double-clicking on the UI+Gateway node, you can open a modal that allows you to provide specific information about this node.
+The UI+Gateway node in the Mind Map Designer represents the frontend and gateway of your project. It serves as the entry point for user interaction and handles the communication between the user interface and the backend services. By double-clicking on the UI+Gateway node, you can open a modal that allows you to provide specific information about this node.
 
 Here is more information about data that need to provide:
 
@@ -18,6 +18,6 @@ Please specify the client framework that your application will use. Possible val
 #### Server Port
 Please specify the port that your application will use for its services.
 
-It's important to note that the Mindmap Designer allows only one UI+Gateway node in your mindmap. This restriction ensures clarity and prevents confusion by having a single entry point for your application's frontend and gateway functionality.
+It's important to note that the Mind Map Designer allows only one UI+Gateway node in your Mind Map. This restriction ensures clarity and prevents confusion by having a single entry point for your application's frontend and gateway functionality.
 
-By providing these details for the UI+Gateway node, you can accurately represent and document the frontend + gateway aspects of your project within the mindmap. This information will help you visualize the overall architecture and plan the integration with other components in your mindmap.
+By providing these details for the UI+Gateway node, you can accurately represent and document the frontend + gateway aspects of your project within the Mind Map. This information will help you visualize the overall architecture and plan the integration with other components in your Mind Map.

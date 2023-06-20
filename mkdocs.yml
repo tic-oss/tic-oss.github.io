@@ -98,7 +98,6 @@ plugins:
         video_muted: True
         video_controls: True
         css_style:
-        width: "800%"
 
 markdown_extensions:
   - attr_list

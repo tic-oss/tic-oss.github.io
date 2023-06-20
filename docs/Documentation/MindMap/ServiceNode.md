@@ -1,4 +1,4 @@
-When working with the Service Nodes in the Mindmap Designer, you can add multiple nodes to represent the microservices in your project. Here's an explanation of the fields that you see when double-click on a service node.
+When working with the Service Nodes in the Mind Map Designer, you can add multiple nodes to represent the microservices in your project. Here's an explanation of the fields that you see when double-click on a service node.
 
 ### Available Service configuration options
 
@@ -20,4 +20,4 @@ Provide the package name for the microservice. The package name is used for orga
 #### Server Port: 
 Specify the port number on which the microservice will be running. This port number is used to access the microservice through the network. Each microservice should have a unique port number to avoid conflicts. Commonly used port numbers are in the range of 8000 to 8080, but you can choose any available port as per your project's requirements.
 
-By providing these details for each service node, you can effectively define and organize the microservices within your project in the Mindmap Designer.
+By providing these details for each service node, you can effectively define and organize the microservices within your project in the Mind Map Designer.
