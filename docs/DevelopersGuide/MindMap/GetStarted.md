@@ -1,5 +1,7 @@
 Mind Map is a designer interface for planning your project architecture by visualizing the components of your application with draggable nodes and edges. Here's a step-by-step guide on how to use the Mind Map Designer effectively:
 
+Visit our website to get started [Click here.](http://wda-ui.s3-website.ap-south-1.amazonaws.com/){target="_blank"}
+
 You can access the Mind Map from navigation bar.
 <a href="/Images/Navigatetomindmap.png" target="_blank"><img src="/Images/Navigatetomindmap.png" alt="Image"></a>
 
