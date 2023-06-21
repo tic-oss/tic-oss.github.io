@@ -62,33 +62,31 @@ nav:
   - Introduction:
     - Our Products: index.md
   - Developer's Guide:
-    - Developers's Guide/Concept.md
-    - Generating-WDA:
-      - Building WDA: Developers's Guide/Generating-WDA/buildingWDA.md
-    - Generating-WDI:
-      - Building WDI: Developers's Guide/Generating-WDI/buildingWDI.md
+    - DevelopersGuide/Concept.md
     - Mind Map:
-      - Get Started : Developers's Guide/Mind Map/GetStarted.md
+      - Get Started : DevelopersGuide/MindMap/GetStarted.md
+    - Generating-WDI:
+      - Building WDI: DevelopersGuide/Generating-WDI/BuildingWDI.md
+    - Generating-WDA (deprecated):
+      - Building WDA: DevelopersGuide/Generating-WDA/BuildingWDA.md   
   - Documentation:
     - Architecture: Documentation/concept.md
-    - WDA:
-      - WDA: Documentation/WDA/1.1wda.md
-      - Prerequisites: Documentation/WDA/1Preq.md
-      - Application: Documentation/WDA/3Application.md
-      - Deployment : Documentation/WDA/4Deployment.md
-      - Communication : Documentation/WDA/5communication.md
-    - WDI:
-      - WDI: Documentation/WDI/1WDI.md
-      - Prerequisites: Documentation/WDI/2Prerequisites.md
-    - Local Setup: Documentation/localsetup.md
     - Mind Map:
-      - Mind Map: Documentation/MindMap/mindMap.md
-      - Prerequisites: Documentation/MindMap/Prerequisites.md
-      - UI+Gateway Node: Documentation/MindMap/UI+Gateway.md
+      - Mind Map: Documentation/MindMap/MindMap.md
+      - Pre-requisites: Documentation/MindMap/Prerequisites.md
+      - UI+Gateway Node: Documentation/MindMap/UIandGateway.md
       - Service Node: Documentation/MindMap/ServiceNode.md
       - Global Configurations: Documentation/MindMap/GlobalConfigurations.md
-
-
+    - WDI:
+      - WDI: Documentation/WDI/WDI.md
+      - Pre-requisites: Documentation/WDI/Prerequisites.md
+    - Local Setup: Documentation/Localsetup.md
+    - WDA (deprecated):
+      - WDA: Documentation/WDA/WDA.md
+      - Pre-requisites: Documentation/WDA/Prerequisites.md
+      - Application: Documentation/WDA/Application.md
+      - Deployment : Documentation/WDA/Deployment.md
+      - Communication : Documentation/WDA/Communication.md
 repo_name: coMakeIT-TIC.github.io
 repo_url: https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io
 plugins:
