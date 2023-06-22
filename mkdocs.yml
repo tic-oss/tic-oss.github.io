@@ -72,7 +72,7 @@ nav:
   - Documentation:
     - Architecture: Documentation/concept.md
     - Mind Map:
-      - Mind Map: Documentation/MindMap/MindMap.md
+      - Introduction: Documentation/MindMap/Introduction.md
       - Pre-requisites: Documentation/MindMap/Prerequisites.md
       - UI+Gateway Node: Documentation/MindMap/UIandGateway.md
       - Service Node: Documentation/MindMap/ServiceNode.md

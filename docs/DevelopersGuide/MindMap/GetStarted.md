@@ -21,7 +21,7 @@ This node represents the frontend and gateway of your project. Double click on i
 <a href="/Images/UIgatewaynode.png" target="_blank"><img src="/Images/UIgatewaynode.png" alt="Image"></a>
 
 #### Step 2: Service Node
-This node represent the microservices in your project. You can add multiple service nodes.Double click on it to open a modal and provide information.
+This node represent the microservices in your project. You can add multiple service nodes. Double click on it to open a modal and provide information.
 <a href="/Images/Servicenode.png" target="_blank"><img src="/Images/Servicenode.png" alt="Image"></a>
 
 #### Step 3: Adding other components
