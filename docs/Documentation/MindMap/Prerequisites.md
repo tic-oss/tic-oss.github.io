@@ -1,21 +1,18 @@
 # Prerequisites
-
-Before you begin with WDA, there are certain prerequisites that must be met to ensure a successful outcome. These prerequisites are the necessary requirements and conditions that must be in place before proceeding with WDA.
-
-## 1. If the framework is java/go
-
+These are the necessary requirements and conditions that must be in place before proceeding with WDA.
+### 1. If the framework is java/go
 Dependending on the your choice of framework, Make sure you have that installed to run the application.
 
 [Install Java](https://www.oracle.com/in/java/technologies/downloads/)
 
 [Install Go](https://go.dev/doc/install)
-## 2. Any IDE of user chocie
+### 2. Any IDE of user chocie
     For Example:-
 
     a Intellij
     b STS
     c Vscode
-## 3. Install docker
+### 3. Install docker
 By installing docker you can run the other services in container instead of installing in local.
     
     Services Like the following can be run in container:
@@ -35,7 +32,7 @@ The user can also opt for the deployment at the WDA as well, in such case:
         2 kubectl
 
         3 aws-cli
-## 4. To push the docker image to ECR repository
+### 4. To push the docker image to ECR repository
 You would require a AWS cli, to configure reffer the below link.
    
    [Configure AWS CLI](https://docs.aws.amahttps://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.htmlzon.com/cli/latest/userguide/cli-authentication-user.html)

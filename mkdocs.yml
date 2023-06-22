@@ -77,6 +77,7 @@ nav:
       - UI+Gateway Node: Documentation/MindMap/UIandGateway.md
       - Service Node: Documentation/MindMap/ServiceNode.md
       - Global Configurations: Documentation/MindMap/GlobalConfigurations.md
+      - Project Structure: Documentation/MindMap/Projectstructure.md
     - WDI:
       - WDI: Documentation/WDI/WDI.md
       - Pre-requisites: Documentation/WDI/Prerequisites.md
