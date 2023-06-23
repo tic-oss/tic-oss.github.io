@@ -22,8 +22,8 @@ You can get started with WDI with these simple steps:
 3 . A Form will open please, fill all the details and click on submit.
 <a href="/Images/wdi2.png" target="_blank"><img src="/Images/wdi2.png" alt="Image"></a>
 
-For Detailed information on possible values to be filled please reffer [WDI Guide.](https://comakeit-tic.github.io/Documentation/WDI/1WDI/)
+For Detailed information on possible values to be filled please reffer [WDI Guide.](/Documentation/WDI/WDI/){target="_blank"}
 
 ### Complete Video Guide
 
-![type:video](./wdi.mp4)
+![type:video](./WDI.mp4)
