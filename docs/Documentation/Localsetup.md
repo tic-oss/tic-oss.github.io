@@ -36,7 +36,7 @@ run ```yo``` command, Tf Wdi should be listed
 
 github repository: [jhipster-blueprints](https://github.com/coMakeIT-TIC/jhipster-blueprints)
 
-go to generator-jhipster-go
+go to generator-jhipster-gomicro
 
 update generator-jhipster dependency path in package.json to your local source directory
 

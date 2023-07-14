@@ -5,7 +5,7 @@ Visit our website to get started [Click here.](http://wda-ui.s3-website.ap-south
 You can access the Mind Map from navigation bar.
 <a href="/Images/Navigatetomindmap.png" target="_blank"><img src="/Images/Navigatetomindmap.png" alt="Image"></a>
 
-To use the Mind Map you have to login first. Click on the login.
+Please click on the "Login" button to save your projects in your account for later viewing.
 <a href="/Images/Loginpage.png" target="_blank"><img src="/Images/Loginpage.png" alt="Image"></a>
 
 If you don't have an account you can create one by clicking on 'Register' on the login page and then login.
