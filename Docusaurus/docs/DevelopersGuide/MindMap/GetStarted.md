@@ -26,7 +26,11 @@ In the sidebar, you'll find draggable nodes for various components such as the A
 ![Alt Text](../../Images/otherscomponents.png)
 
 ### Step 7: Grouping
-
+In the side bar you can see node called a group, this is a re-sizable node which can be used to group your components for a clear picture.
+![Alt Text](../../Images/group.png)
+### Naming Group
+And you can also provide a name to the group, by double-click on the group node.
+![Alt text](../../Images/groupname.png)
 ### Step 8: Creating Connections
 Nodes in the can be connected using edges. There are two types of connections you can create:
 ###  Database Connection 
@@ -36,16 +40,24 @@ Connect a Service or UI+Gateway node with a database node to associate the servi
 Connect two service nodes to establish communication between them. Double click on an edge to define the type of communication.
 ![Alt Text](../../Images/interservice.png)
 
-### Step 9: Metadata and Saving
-At the bottom of the sidebar, there's a checkbox to save project metadata. Check this box if you want to save your project details for future reference. You can view your previous projects from the Projects tab. Don't forget to enter a project name in the input box at the top of the sidebar.
-![Alt Text](../../Images/Nextbutton.png)
+### Step 9: Adding Colors
+You can differenciate nodes by adding different colors, to add a color just select the node and apick a color from the side bar.
+![Alt Text](../../Images/colors.png)
+### Step 10: Saving your Project
+If you have login to the canvas, at the bottom of the sidebar there's a checkbox to save project. Check this box if you want to save your project details for future reference.
+![Alt Text](../../Images/saveoption.png)
+### Accesing Saved Projects
+You can view your previous projects from the Projects tab. Don't forget to enter a project name in the input box at the top of the sidebar.
+![Alt Text](../../Images/projects.png)
+### Step 11: Moving to the Next Step
+Once you've filled in all the necessary information and provided a project name, click on the "Next" button. A popup will appear, giving you the option to select a deployment infrastructure for your project. 
+![Alt Text](../../Images/nextstep.png)
+select your option, fill in the details and click "Submit." If you don't need a deployment infrastructure, simply click on the "Skip" button.
+![Alt Text](../../Images/deployment_infra.png)
 
-### Step 10: Moving to the Next Step
-Once you've filled in all the necessary information and provided a project name, click on the "Next" button. A popup will appear, giving you the option to select a deployment infrastructure for your project. Fill in the details and click "Submit." If you don't need a deployment infrastructure, simply click on the "Skip" button.
-![Alt Text](../../Images/Deployinfra.png)
-
-### Step 11: Project Generation
+### Step 12: Project Generation
 Sit back and relax! We will generate a zip file for your project based on the information you provided.
+![Alt text](../../Images/generation.png)
 
 To know more and for detailed information of the options available you can refer [Documentation](/Documentation/MindMap/mindMap/)
 We hope you find the CanvasToCode intuitive and helpful for planning and visualizing your project architecture. If you have any further questions or need assistance, please don't hesitate to reach out. 
