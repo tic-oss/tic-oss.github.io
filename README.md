@@ -22,12 +22,14 @@ In the terminal, run the following command to install all the required dependenc
 
 ```bash
 npm install
+```
 
 ## Step 4: Start the Local Development Server
 
 After the dependencies are installed, start the local development server using the following command:
 ```bash
 npm start
+```
 
 ## Step 5: Access the Local Site
 
