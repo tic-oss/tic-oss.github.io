@@ -1,7 +1,6 @@
-# tic-oss.github.io
 # Running Docusaurus Documentation Locally in VSCode
 
-Follow these steps to run a Docusaurus documentation site that you cloned from GitHub on your local machine using VSCode.
+Follow these steps to run a Docusaurus documentation site that you've cloned from GitHub on your local machine using VSCode.
 
 ## Prerequisites
 
@@ -24,14 +23,14 @@ In the terminal, run the following command to install all the required dependenc
 ```bash
 npm install
 
-Step 4: Start the Local Development Server**
+## Step 4: Start the Local Development Server
+
 After the dependencies are installed, start the local development server using the following command:
 ```bash
 npm start
 
-Step 5: Access the Local Site
+## Step 5: Access the Local Site
+
 Once the server is up and running, open your web browser and visit http://localhost:3000/ to see the locally running Docusaurus documentation site.
 
 Now, you can explore and interact with the documentation website on your local machine. Any changes you make to the Markdown files will automatically trigger a refresh on the site, allowing you to preview your changes in real-time.
-
-
