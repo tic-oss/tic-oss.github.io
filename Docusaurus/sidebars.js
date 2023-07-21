@@ -24,16 +24,16 @@ const sidebars = {
           label: 'CanvasToCode',
           items: ['DevelopersGuide/MindMap/GetStarted'],
         },
-        {
-          type: 'category',
-          label: 'Generating-WDI',
-          items: ['DevelopersGuide/Generating-WDI/BuildingWDI'],
-        },
-        {
-          type: 'category',
-          label: 'Generating-WDA(Deprecated)',
-          items: ['DevelopersGuide/Generating-WDA/BuildingWDA'],
-        },
+        // {
+        //   type: 'category',
+        //   label: 'Generating-WDI',
+        //   items: ['DevelopersGuide/Generating-WDI/BuildingWDI'],
+        // },
+        // {
+        //   type: 'category',
+        //   label: 'Generating-WDA(Deprecated)',
+        //   items: ['DevelopersGuide/Generating-WDA/BuildingWDA'],
+        // },
       ],
     },
   ],
@@ -46,13 +46,14 @@ const sidebars = {
         {
           type: 'category',
           label: 'Canvas To Code',
-          items: [
-            'Documentation/MindMap/GlobalConfigurations',
+          items: [            
             'Documentation/MindMap/Introduction',
             'Documentation/MindMap/Prerequisites',
-            'Documentation/MindMap/Projectstructure',
-            'Documentation/MindMap/ServiceNode',
             'Documentation/MindMap/UIandGateway',
+            'Documentation/MindMap/ServiceNode',            
+            'Documentation/MindMap/GlobalConfigurations',            
+            'Documentation/MindMap/Projectstructure',
+            
           ],
         },
         {
@@ -67,10 +68,10 @@ const sidebars = {
           type: 'category',
           label: 'WDA(Deprecated)',
           items: [
+            'Documentation/WDA/Prerequisites',
             'Documentation/WDA/Application',
             'Documentation/WDA/Communication',
-            'Documentation/WDA/Deployment',
-            'Documentation/WDA/Prerequisites',
+            'Documentation/WDA/Deployment',            
             'Documentation/WDA/WDA',
           ],
         },  
