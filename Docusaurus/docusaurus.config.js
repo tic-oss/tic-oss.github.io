@@ -9,24 +9,20 @@ module.exports = {
   organizationName: 'coMakeIT-TIC',
   projectName: 'coMakeIT-TIC.github.io',
 
-  plugins: [
-    // ... other plugins
-
-    // Add the local search plugin
+  themes: [
+    // ... Your other themes.
     [
-      'docusaurus-lunr-search',
-      {
-        // The languages for which you want to enable the search
-        languages: ['en'], // Example: English
-
-        // The search result page URL. The value should match the URL in your docs folder.
-        // This is the page where the search results will be displayed.
-        searchResultPagePath: '/search',
-
-        // Whether to generate an index file for each version or a single one
-        // Set this to true if you have multiple versions of docs deployed.
-        // generateSearchIndicesForLanguages: true, // Uncomment this line if needed
-      },
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        // language: ["en", "zh"],
+        // ```
+      }),
     ],
   ],
 
