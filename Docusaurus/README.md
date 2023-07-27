@@ -2,40 +2,41 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+# Running Docusaurus Documentation Locally in VSCode
 
-```
-$ yarn
-```
+Follow these steps to run a Docusaurus documentation site that you've cloned from GitHub on your local machine using VSCode.
 
-### Local Development
+## Prerequisites
 
-```
-$ yarn start
-```
+Before you begin, make sure you have the following installed on your computer:
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+1. [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (Node Package Manager)
 
-### Build
+## Step 1: Clone the Repository
 
-```
-$ yarn build
-```
+Clone the Docusaurus documentation repository from GitHub to your local machine.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Step 2: Open VSCode and Terminal
 
-### Deployment
+Open Visual Studio Code (VSCode) and navigate to the cloned repository's root folder. To do this, go to the top menu and select `Terminal` > `New Terminal`.
 
-Using SSH:
+## Step 3: Install Dependencies
 
-```
-$ USE_SSH=true yarn deploy
+In the terminal, run the following command to install all the required dependencies for the Docusaurus documentation site:
+
+```bash
+npm install && npm run build
 ```
 
-Not using SSH:
+## Step 4: Start the Local Development Server
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+After the dependencies are installed, start the local development server using the following command:
+```bash
+npm run serve
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## Step 5: Access the Local Site
+
+Once the server is up and running, open your web browser and visit http://localhost:3000/ to see the locally running Docusaurus documentation site.
+
+Now, you can explore and interact with the documentation website on your local machine. Any changes you make to the Markdown files will automatically trigger a refresh on the site, allowing you to preview your changes in real-time.

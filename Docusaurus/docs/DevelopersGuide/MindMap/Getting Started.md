@@ -59,5 +59,5 @@ select your option, fill in the details and click "Submit." If you don't need a 
 Sit back and relax! We will generate a zip file for your project based on the information you provided.
 ![Alt text](../../Images/generation.png)
 
-To know more and for detailed information of the options available you can refer [Documentation](/Documentation/MindMap/mindMap/)
+To know more and for detailed information of the options available you can refer [Documentation](/docs/Documentation/MindMap/Introduction/)
 We hope you find the CanvasToCode intuitive and helpful for planning and visualizing your project architecture. If you have any further questions or need assistance, please don't hesitate to reach out. 
