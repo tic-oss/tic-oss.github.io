@@ -1,6 +1,6 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: three-blog-post
+title: sample blog three
 author: Gao Wei
 author_title: Docusaurus Core Team
 author_url: https://github.com/wgao19

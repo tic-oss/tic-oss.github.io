@@ -1,7 +1,17 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
+# authors: [slorber, yangshun]
+authors:
+  - name: exp---1
+    title: hihello
+    url: https://www.linkedin.com/in/samame
+    image_url: https://avatars.githubusercontent.com/u/16234334?v=4
+  - name: exp------2
+    title: don't know you
+    url: https://github.com/deepakprabhakara
+    image_url: https://boxyhq.com/img/team/deepak.jpg
+image: img/docusaurus-plushie-banner.jpeg
 tags: [facebook, hello, docusaurus]
 ---
 

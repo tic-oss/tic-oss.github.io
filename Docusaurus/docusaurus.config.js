@@ -35,8 +35,18 @@ module.exports = {
           // editUrl: 'https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io/edit/main/',
         },
         blog: {
+          blogTitle: 'Blog',
+          blogDescription:
+            'The TIC blog is where our team shares our thoughts and ideas about everything from our products to industry news and insights.',
           showReadingTime: true,
-          // editUrl: 'https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io/edit/main/blog/',
+          feedOptions: {
+            type: 'all',
+           // copyright,
+          },
+
+          blogSidebarTitle: 'Recent posts',
+          blogSidebarCount: 5,
+          postsPerPage: 'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

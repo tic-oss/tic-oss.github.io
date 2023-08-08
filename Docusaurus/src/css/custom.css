@@ -28,3 +28,35 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+.card {
+  border: 1px solid #333;
+  box-shadow: none;
+  border-radius: 5px;
+  text-decoration: none !important;
+  color: var(--ifm-color-content);
+}
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.3rem;
+}
+.card__description {
+  font-size: 14px;
+}
+
+.card {
+  border: 1px solid #e3dbdb !important;
+}
+
+.hero__title {
+  font-size: 2.25rem;
+  margin: 0%;
+}
+
+.hero__subtitle {
+  font-size: 1.25rem;
+}
+
+.hero__image {
+  display: none;
+  justify-content: center;
+}
