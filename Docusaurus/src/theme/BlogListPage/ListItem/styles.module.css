@@ -2,7 +2,7 @@
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
-  min-height: 110px;
+  min-height: 85px;
   overflow: hidden;
   color: var(--theme-text-color);
   font-size: 1.3rem;
@@ -10,6 +10,6 @@
 }
 
 .cardImage {
-  height: 200px;
+  height: 160px;
   overflow: hidden;
 }

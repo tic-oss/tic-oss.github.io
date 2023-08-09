@@ -58,23 +58,30 @@ const sidebars = {
         },
         {
           type: 'category',
-          label: 'WDI',
-          items: [
-            'Documentation/WDI/Prerequisites',
-            'Documentation/WDI/WDI',
-          ],
+          label: 'Archive',
+          items:[ 
+          {
+            type: 'category',
+            label: 'WDI',
+            items: [
+              'Documentation/Archive/WDI/Prerequisites',
+              'Documentation/Archive/WDI/WDI',
+                  ],
         },
         {
-          type: 'category',
-          label: 'WDA(Deprecated)',
-          items: [
-            'Documentation/WDA/Prerequisites',
-            'Documentation/WDA/Application',
-            'Documentation/WDA/Communication',
-            'Documentation/WDA/Deployment',            
-            'Documentation/WDA/WDA',
-          ],
-        },  
+            type: 'category',
+            label: 'WDA(Deprecated)',
+            items: [
+              'Documentation/Archive/WDA/Prerequisites',
+              'Documentation/Archive/WDA/Application',
+              'Documentation/Archive/WDA/Communication',
+              'Documentation/Archive/WDA/Deployment',            
+              'Documentation/Archive/WDA/WDA',
+            ],
+        }, 
+       ]
+      },
+       
       ],
     },
   ],

@@ -1,6 +1,6 @@
 ---
 slug: three-blog-post
-title: sample blog three
+title: What is ment by Well Defined Architecture (WDA)? Get Started sample space
 author: Gao Wei
 author_title: Docusaurus Core Team
 author_url: https://github.com/wgao19

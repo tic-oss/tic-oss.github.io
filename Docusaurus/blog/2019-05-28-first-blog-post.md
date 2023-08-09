@@ -1,6 +1,6 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: What is ment by Well Defined Architecture (WDA)? Get Started
 author: Gao Wei
 author_title: Docusaurus Core Team
 author_url: https://github.com/wgao19

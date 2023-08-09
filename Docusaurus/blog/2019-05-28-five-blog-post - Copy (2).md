@@ -1,11 +1,11 @@
 ---
 slug: long-blog-post
-title: Long Blog Post
+title: What is ment by Well Defined Architecture (WDA)? see Documentation 
 author: endi
 author_title: Co-founder & CEO @BoxyHQ
 author_url: https://github.com/deepakprabhakara
 author_image_url: https://boxyhq.com/img/team/deepak.jpg
-image: img/docusaurus-plushie-banner.jpeg
+image: img/docusaurus-social-card.jpg
 tags: [hello, docusaurus]
 ---
 
