@@ -84,8 +84,9 @@ module.exports = {
         { to: '/blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io',
-          label: 'GitHub',
+          //label: 'GitHub',
           position: 'right',
+          className: 'header-github-link',
         },
       ],
     },

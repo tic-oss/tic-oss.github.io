@@ -5,7 +5,7 @@ author: endi
 author_title: Co-founder & CEO @BoxyHQ
 author_url: https://github.com/deepakprabhakara
 author_image_url: https://boxyhq.com/img/team/deepak.jpg
-image: img/docusaurus-social-card.jpg
+image: img/2.jpg
 tags: [hello, docusaurus]
 ---
 
