@@ -22,7 +22,7 @@ const sidebars = {
         {
           type: 'category',
           label: 'CanvasToCode',
-          items: ['DevelopersGuide/MindMap/Getting Started'],
+          items: ['DevelopersGuide/MindMap/GettingStarted'],
         },
         // {
         //   type: 'category',

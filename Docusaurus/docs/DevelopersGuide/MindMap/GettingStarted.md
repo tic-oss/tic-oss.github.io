@@ -1,3 +1,4 @@
+# Getting Started
 Welcome to the CanvasToCode! It's a powerful tool for planning your project architecture by visualizing the components of your application using draggable nodes and connecting edges. Follow these steps to effectively use the CanvasToCode:
 
 ### Step 1: Accessing CanvasToCode

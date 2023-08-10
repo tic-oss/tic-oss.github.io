@@ -1,3 +1,4 @@
+# Global Configurations
 When using the Mind Map Designer, you'll find different categories of draggable nodes in the sidebar. Each category represents a specific component or functionality that you can add to your Mind Map. Here's an overview of the different draggable nodes available
 ### Auth Provider
 #### Keycloak

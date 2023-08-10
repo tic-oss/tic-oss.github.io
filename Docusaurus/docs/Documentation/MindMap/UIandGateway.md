@@ -1,3 +1,4 @@
+# UI and Gateway
 The UI+Gateway node in the Mind Map Designer represents the frontend and gateway of your project. It serves as the entry point for user interaction and handles the communication between the user interface and the backend services. By double-clicking on the UI+Gateway node, you can open a modal that allows you to provide specific information about this node.
 
 Here is more information about data that need to provide:

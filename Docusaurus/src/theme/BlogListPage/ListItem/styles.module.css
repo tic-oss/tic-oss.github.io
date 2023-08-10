@@ -2,7 +2,7 @@
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
-  min-height: 85px;
+  min-height: 80px;
   overflow: hidden;
   color: var(--theme-text-color);
   font-size: 1.3rem;

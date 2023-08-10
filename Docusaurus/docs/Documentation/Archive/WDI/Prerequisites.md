@@ -11,4 +11,4 @@ The Kubernetes command-line tool, kubectl, allows you to run commands against Ku
 ## 3 . Cloud Provider
 An active cloud provider account to which the infrastructure will be deployed.
 
-    (As of now for use it's AWS)
+    We have support for AWS and Azure

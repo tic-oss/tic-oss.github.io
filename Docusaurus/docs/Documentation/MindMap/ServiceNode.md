@@ -1,3 +1,4 @@
+# Service Node
 When working with the Service Nodes in the Mind Map Designer, you can add multiple nodes to represent the microservices in your project. Here's an explanation of the fields that you see when double-click on a service node.
 
 ### Available Service configuration options

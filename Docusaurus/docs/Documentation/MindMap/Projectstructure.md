@@ -1,3 +1,4 @@
+# Project Structure
 The structure of the project folder depends on whether you have selected a deployment infrastructure or not. Let's explore both scenarios
 
 #### Scenario 1: No Deployment Infrastructure Selected
