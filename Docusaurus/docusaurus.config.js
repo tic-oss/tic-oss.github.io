@@ -34,20 +34,20 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // editUrl: 'https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io/edit/main/',
         },
-        blog: {
-          blogTitle: 'Blog',
-          blogDescription:
-            'The TIC blog is where our team shares our thoughts and ideas about everything from our products to industry news and insights.',
-          showReadingTime: true,
-          feedOptions: {
-            type: 'all',
-           // copyright,
-          },
+        // blog: {
+        //   blogTitle: 'Blog',
+        //   blogDescription:
+        //     'The TIC blog is where our team shares our thoughts and ideas about everything from our products to industry news and insights.',
+        //   showReadingTime: true,
+        //   feedOptions: {
+        //     type: 'all',
+        //    // copyright,
+        //   },
 
-          blogSidebarTitle: 'Recent posts',
-          blogSidebarCount: 5,
-          postsPerPage: 'ALL',
-        },
+        //   blogSidebarTitle: 'Recent posts',
+        //   blogSidebarCount: 5,
+        //   postsPerPage: 'ALL',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -56,6 +56,8 @@ module.exports = {
   ],
 
   themeConfig: {
+    image: 'img',
+    video: 'videos',
     navbar: {
       title: 'TIC@CoMakeIT',
       logo: {
@@ -81,7 +83,7 @@ module.exports = {
           position: 'left',
           label: 'Documentation',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        // { to: '/blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io',
           //label: 'GitHub',
@@ -113,10 +115,10 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
+            // {
+            //   label: 'Blog',
+            //   to: '/blog',
+            // },
             {
               label: 'GitHub',
               href: 'https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io',
