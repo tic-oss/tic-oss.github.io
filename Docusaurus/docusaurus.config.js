@@ -50,6 +50,7 @@ module.exports = {
         // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          
         },
       },
     ],
@@ -58,6 +59,9 @@ module.exports = {
   themeConfig: {
     image: 'img',
     video: 'videos',
+    customFields:{
+      mendableAnonKey:"ea127331-5f53-4643-a5ec-c964a6c87aba",
+  },
     navbar: {
       title: 'TIC@CoMakeIT',
       logo: {
