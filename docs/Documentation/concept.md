@@ -1,7 +1,7 @@
 # Architecture
 
 ## Well Defined Architecture
-<!-- ![Alt Text](../Images/wdaarch.png) -->
+![Alt Text](../Images/wdaarch.png)
 
 WDA mainly comprises of two components, generator-jhipster and generator-tf-wdi.
 

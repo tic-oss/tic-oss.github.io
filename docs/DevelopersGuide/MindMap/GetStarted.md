@@ -1,7 +1,7 @@
 Welcome to the CanvasToCode! It's a powerful tool for planning your project architecture by visualizing the components of your application using draggable nodes and connecting edges. Follow these steps to effectively use the CanvasToCode:
 
 ### Step 1: Accessing CanvasToCode
-To get started, visit our website by [Clicking here](https://tic.comakeit.com/). You can access the CanvasToCode from the navigation bar and also from CanvasToCode button on home page by clicking on "new".
+To get started, visit our website by [Clicking here](https://tic.comakeit.com/). You can access the CanvasToCode from the navigation bar and also from CanvasToCode button on home page by clicking on "new" from CanvasToCode dropdown.
 ![Alt Text](../../Images/homepage.png)
 
 ### Step 2: Logging in

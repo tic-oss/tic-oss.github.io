@@ -13,4 +13,4 @@ Having well-defined microservices alone isn't enough for the best performance, p
 
 To solve this problem, WDA also generates Infrastructure Automation (WDI). It provides a scalable and cost-effective platform for hosting the services.
 
-[Click here to Explore our products!](http://wda-ui.s3-website.ap-south-1.amazonaws.com/){target="_blank"}
+[Click here to Explore our products!](https://tic.comakeit.com/){target="_blank"}

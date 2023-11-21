@@ -67,6 +67,7 @@ nav:
       - Get Started : DevelopersGuide/MindMap/GetStarted.md
   - Documentation:
     - Architecture: Documentation/concept.md
+    - Local Setup: Documentation/Localsetup.md
     - Mind Map:
       - Introduction: Documentation/MindMap/Introduction.md
       - Pre-requisites: Documentation/MindMap/Prerequisites.md
@@ -77,7 +78,6 @@ nav:
     - WDI(deprecated):
       - WDI: Documentation/WDI/WDI.md
       - Pre-requisites: Documentation/WDI/Prerequisites.md
-    - Local Setup: Documentation/Localsetup.md
     - WDA (deprecated):
       - WDA: Documentation/WDA/WDA.md
       - Pre-requisites: Documentation/WDA/Prerequisites.md
