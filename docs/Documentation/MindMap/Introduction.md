@@ -1,5 +1,5 @@
 The Mind Map Designer is an innovative tool designed to simplify the process of visualizing and planning your project architecture. With its intuitive interface, you can easily drag and drop nodes representing different components onto your Mind Map, creating a comprehensive overview of your project structure.
-<a href="/Images/Mindmappage.png" target="_blank"><img src="/Images/Mindmappage.png" alt="Image"></a>
+![Alt Text](../../Images/canvaspage.png)
 
 Whether you're defining the frontend UI, configuring microservices, or integrating essential components like authentication providers, databases, service discovery, and log management, the Mind Map Designer has got you covered. Simply double-click on each node to input specific information and customize it according to your project requirements.
 

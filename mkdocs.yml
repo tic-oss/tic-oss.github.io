@@ -65,10 +65,6 @@ nav:
     - DevelopersGuide/Concept.md
     - Mind Map:
       - Get Started : DevelopersGuide/MindMap/GetStarted.md
-    - Generating-WDI:
-      - Building WDI: DevelopersGuide/Generating-WDI/BuildingWDI.md
-    - Generating-WDA (deprecated):
-      - Building WDA: DevelopersGuide/Generating-WDA/BuildingWDA.md   
   - Documentation:
     - Architecture: Documentation/concept.md
     - Mind Map:
@@ -78,7 +74,7 @@ nav:
       - Service Node: Documentation/MindMap/ServiceNode.md
       - Global Configurations: Documentation/MindMap/GlobalConfigurations.md
       - Project Structure: Documentation/MindMap/Projectstructure.md
-    - WDI:
+    - WDI(deprecated):
       - WDI: Documentation/WDI/WDI.md
       - Pre-requisites: Documentation/WDI/Prerequisites.md
     - Local Setup: Documentation/Localsetup.md
@@ -92,11 +88,11 @@ repo_name: coMakeIT-TIC.github.io
 repo_url: https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io
 plugins:
   - search
-  - mkdocs-video:
-        is_video: True
-        video_muted: True
-        video_controls: True
-        css_style:
+  # - mkdocs-video:
+  #       is_video: True
+  #       video_muted: True
+  #       video_controls: True
+  #       css_style:
 
 markdown_extensions:
   - attr_list
