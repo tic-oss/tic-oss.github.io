@@ -27,7 +27,7 @@ Use the following options to manage project metadata and saving
 #### Save project metadata  
 Check this box to save project details for future reference. 
 
-#### Projects tab  
+#### Exsisting Projects  
 View your previous projects. 
 
 #### Project Name  

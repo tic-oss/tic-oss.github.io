@@ -1,7 +1,7 @@
 # Architecture
 
 ## Well Defined Architecture
-<a href="/Images/wdaarch.png" target="_blank"><img src="/Images/wdaarch.png" alt="Image"></a>
+![Alt Text](../Images/wdaarch.png)
 
 WDA mainly comprises of two components, generator-jhipster and generator-tf-wdi.
 
@@ -14,8 +14,8 @@ Both components are developed using yeoman, a scaffolding framework. All the boi
 
 References:
 
-- [JHipster](https://www.jhipster.tech/){target="_blank"}
-- [Yeoman](https://yeoman.io/){target="_blank"}
+- [JHipster](https://www.jhipster.tech/)
+- [Yeoman](https://yeoman.io/)
 
 
 
