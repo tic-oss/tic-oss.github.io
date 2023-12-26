@@ -30,6 +30,9 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        customLayout: require.resolve('./src/layouts/CustomLayout.js'),
+      },
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // editUrl: 'https://github.com/coMakeIT-TIC/coMakeIT-TIC.github.io/edit/main/',
