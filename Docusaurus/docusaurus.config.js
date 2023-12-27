@@ -25,13 +25,17 @@ module.exports = {
       }),
     ],
   ],
+  // Plugins:[
+  //   'streamlit-plugin',
+  //     {
+  //       path: './app.py',
+  //       // Add any other plugin options here
+  //     },
+  // ],
 
   presets: [
     [
       '@docusaurus/preset-classic',
-      {
-        customLayout: require.resolve('./src/layouts/CustomLayout.js'),
-      },
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -83,6 +87,12 @@ module.exports = {
           docId: 'Documentation/concept',
           position: 'left',
           label: 'Documentation',
+        },
+        {
+          type: 'doc',
+          docId: 'Documentation/chatbot',
+          position: 'left',
+          label: 'ChatBot',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {

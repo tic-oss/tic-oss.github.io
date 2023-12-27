@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Docusaurus Streamlit Runner</title>
+</head>
+<body>
+    <button id="runStreamlitAppBtn">Run Streamlit App</button>
+
+    <script>
+        document.getElementById("runStreamlitAppBtn").onclick = function() {
+            // Execute code to run the Streamlit app on the server
+            fetch('/run_streamlit_app').then(response => response.text()).then(result => console.log(result));
+        };
+    </script>
+</body>
+</html>
