@@ -14,3 +14,28 @@ Having well-defined microservices alone isn't enough for the best performance, p
 To solve this problem, WDA also generates Infrastructure Automation (WDI). It provides a scalable and cost-effective platform for hosting the services.
 
 [Click here to Explore our products!](http://wda-ui.s3-website.ap-south-1.amazonaws.com/){target="_blank"}
+<div id="chat-container">
+<!-- <span style="color:#aeaeae">Ask here</span> -->
+  <div id="chat-bubble" onclick="toggleChat()">
+    <span id="chat-icon">&#128172;</span>
+  </div>
+  <div id="chat-content" class="hidden">
+    <iframe id="chat-iframe"></iframe>
+  </div>
+</div>
+
+<script>
+  function toggleChat() {
+    var chatContent = document.getElementById("chat-content");
+
+    if (chatContent.classList.contains("hidden")) {
+      // Show the chat
+      chatContent.classList.remove("hidden");
+      document.getElementById("chat-iframe").src = "http://localhost:8501";  // Replace with your Streamlit app URL
+    } else {
+      // Hide the chat
+      chatContent.classList.add("hidden");
+      document.getElementById("chat-iframe").src = "";
+    }
+  }
+</script>
